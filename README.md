@@ -4,3 +4,5 @@
 ### Vias de contacto
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/felipe-suarez-rojas/felipe-suarez-rojas)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Felipe-Suarez-Rojas/MiPrimerRepo)
