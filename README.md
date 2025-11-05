@@ -2,3 +2,5 @@
 :computer: Ingeniero Software SoftRestaurant (C# y VFP9)
 
 ### Vias de contacto
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/felipe-suarez-rojas/felipe-suarez-rojas)
